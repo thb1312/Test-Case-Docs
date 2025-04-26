@@ -7,3 +7,5 @@
 3. Verify the error message for invalid credentials.
 4. Verify that the "Forgot Password" link redirects properly.
 5. Verify password field hides the characters when typing.
+6. Verify that mask happens for the password.
+7. Verify that password requriments appears on the Login popup.
